@@ -1,4 +1,4 @@
-package hellocucumber;
+package ru.hellocucumber;
 
 public class Color {
     public String text;

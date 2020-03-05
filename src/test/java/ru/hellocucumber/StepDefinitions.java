@@ -1,4 +1,4 @@
-package hellocucumber;
+package ru.hellocucumber;
 
 import io.cucumber.java.ParameterType;
 import io.cucumber.java.en.When;
